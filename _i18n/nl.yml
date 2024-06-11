@@ -2,6 +2,10 @@ langs:
   en: English
   nl: Nederlands
 
+site_pages:
+  about: Over TWC NL
+  events: Agenda
+
 home:
   about_us: Over Ons
   summary: |
